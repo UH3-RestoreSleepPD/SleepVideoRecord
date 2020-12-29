@@ -2,10 +2,6 @@
 
 #### Matlab app to record video during sleep
 
-Latest Version: Record_IR_Video_App_v04_122820b
-
-
-
 <!-- PROJECT LOGO -->
 <br />
 
