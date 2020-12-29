@@ -89,7 +89,7 @@ Trouble-shooting:
 
 | Issue                       | Code output                                                  | Solution                            |
 | --------------------------- | ------------------------------------------------------------ | ----------------------------------- |
-| HD USB Camera not available | <img src="C:\Users\thomjohn\Documents\Github\SleepVideoRecord\Images_RM\troubleshooting1a.png" /> | Restart Matlab and reconnect camera |
+| HD USB Camera not available | <img src="https://github.com/UH3-RestoreSleepPD/SleepVideoRecord/Images_RM/troubleshooting1a.png" /> | Restart Matlab and reconnect camera |
 |                             |                                                              |                                     |
 |                             |                                                              |                                     |
 |                             |                                                              |                                     |
