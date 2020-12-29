@@ -22,7 +22,7 @@ Latest Version: Record_IR_Video_App_v04_122820b
     <a href="https://github.com/UH3-RestoreSleepPD/SleepVideoRecord"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-      <a href="https://github.com/UH3-RestoreSleepPD/SleepVideoRecord"><strong>Latest Version »</strong></a>
+      <a href="https://github.com/UH3-RestoreSleepPD/SleepVideoRecord/SleepVideoGUI_Code/Record_IR_Video_App_v04_122820b.mlapp"><strong>Latest Version »</strong></a>
     <br />
     <br />
     <a href="https://github.com/github_username/repo_name">View Demo</a>
