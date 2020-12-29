@@ -10,8 +10,8 @@ Latest Version: Record_IR_Video_App_v04_122820b
 <br />
 
 <p align="center">
-  <a href="https://github.com/UH3-RestoreSleepPD/SleepVideoRecord/Images_RM">
-    <img src="sleepBrain.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/UH3-RestoreSleepPD/SleepVideoRecord">
+    <img src="Images_RM/sleepBrain.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Sleep Video Recording Application</h3>
