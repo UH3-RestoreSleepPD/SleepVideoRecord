@@ -22,7 +22,7 @@ Latest Version: Record_IR_Video_App_v04_122820b
     <a href="https://github.com/UH3-RestoreSleepPD/SleepVideoRecord"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-      <a href="https://github.com/UH3-RestoreSleepPD/SleepVideoRecord/tree/main/SleepVideoGUI_Code"><strong>Latest Version »</strong></a>
+      <a href="https://github.com/UH3-RestoreSleepPD/SleepVideoRecord/tree/main/SleepVideoGUI_Code/Record_IR_Video_App_v04_122820b.mlapp"><strong>Latest Version »</strong></a>
     <br />
     <br />
     <a href="https://github.com/github_username/repo_name">View Demo</a>
@@ -92,7 +92,7 @@ Trouble-shooting:
 
 | Issue                       | Code output                                                  | Solution                            |
 | --------------------------- | ------------------------------------------------------------ | ----------------------------------- |
-| HD USB Camera not available | <img src="https://github.com/UH3-RestoreSleepPD/SleepVideoRecord/Images_RM/troubleshooting1a.png" /> | Restart Matlab and reconnect camera |
+| HD USB Camera not available | ![](Images_RM/troubleshooting1a.png)                         | Restart Matlab and reconnect camera |
 |                             |                                                              |                                     |
 |                             |                                                              |                                     |
 |                             |                                                              |                                     |
