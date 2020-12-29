@@ -43,7 +43,7 @@ Latest Version: Record_IR_Video_App_v04_122820b
 
 ##### 2. Upon opening GUI you will be prompted to enter the Save Location
 
-![Screen_1](C:\Users\thomjohn\Desktop\Screen_1.png)
+![Screen_1](![Screen_1](https://github.com/UH3-RestoreSleepPD/SleepVideoRecord\Screen_1.png))
 
 ##### 3: Use directory window to navigate to save location
 
