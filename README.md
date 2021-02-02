@@ -36,52 +36,66 @@
 ##### 1. Enter name of GUI application in Command Window
 
 ```matlab
->> Record_IR_Video_App_v04_122820b
+>> Record_IR_Video_App_v02012021
 ```
 
 ##### 2. Upon opening GUI you will be prompted to enter the Save Location
 
-![](Images_RM/Screen_1.png)
+![](Images_RM2/screen1.png)
 
 ##### 3: Use directory window to navigate to save location
 
-![](Images_RM/Screen_2.png)
+![](Images_RM2/screen2.png)
 
 ##### 4. After setting save location you will be promoted to enter a File name
 
-![](Images_RM/Screen_3.png)
+![](Images_RM2/screen3.png)
 
-##### 5. You will be prompted to enter
+##### 5. You will be prompted to enter File information
 
 - Subject number 
 - Institution
 - Night of sleep (number)
 
-![](Images_RM/Screen_4.png)
+![](Images_RM2/screen4.png)
 
-##### 6. Save location and File name will be indicated in the 'Record Save Location' text field box
+##### 6. Save location and File name will be indicated in the 'Record Save Location' text field box - Now Preview button available
 
-![](Images_RM/Screen_5.png)
+![](Images_RM2/screen5.png)
 
 ##### 7. Use the Preview Button to check the Camera view
 
-![](Images_RM/Screen_6.png)
+![](Images_RM2/screen6.png)
 
 ##### 8. Unclick the Preview to permit Recording
 
 ##### 9. Before activating the 'Record' function, check the recording duration [in minutes]
 
-![](Images_RM/Screen_7.png)
+![](Images_RM2/screen7.png)
 
-##### 10. During recording, the display will indicate the current hour block recorded
+##### 10. The Start Recording will be available
 
-![](Images_RM/Screen_8.png)
+![](Images_RM2/screen8.png)
 
-##### 11. When the recording is complete, the 'Preview' button will reactivate and the screen will display a 'green' message
+##### 11. During recording, the display will indicate the current hour block recorded
 
-![](Images_RM/Screen_9.png)
+![](Images_RM2/screen9.png)
 
+##### 12. If the RECORDING completes the set time then the CLOSE request will appear
 
+![](Images_RM2/screen10.png)
+
+##### 13. To start a new recording, restart the GUI by pressing the CLOSE button
+
+![](Images_RM2/screen11.png)
+
+##### 14. To stop the recording before the set time, press the 'Stop Early' button
+
+![](Images_RM2/screen12.png)
+
+##### 15. Early stop will execute the CLOSE request
+
+![](Images_RM2/screen11.png)
 
 Trouble-shooting:
 
